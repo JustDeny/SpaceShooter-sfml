@@ -1,0 +1,56 @@
+﻿  Bonuses.cpp
+  GameLoop.cpp
+c:\users\jimch\source\repos\spaceinvaders\explosion.h(9): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(14): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(82): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(147): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(149): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(151): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(153): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(193): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(200): warning C4018: '<': signed/unsigned mismatch
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(251): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(280): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(283): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\jimch\source\repos\spaceinvaders\gameloop.cpp(299): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+c:\users\jimch\source\repos\spaceinvaders\menu.cpp(26): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\jimch\source\repos\spaceinvaders\menu.cpp(39): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Player.cpp
+c:\users\jimch\source\repos\spaceinvaders\player.cpp(46): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+  SpaceInvaders.vcxproj -> C:\Users\jimch\source\repos\SpaceInvaders\Debug\SpaceInvaders.exe
